@@ -162,7 +162,6 @@
         margin-top: 30px;
     }
     
-<<<<<<< HEAD
     .iqrUHq {
         position: absolute;
         top: 6vw;
@@ -177,24 +176,6 @@
     
     .jKPYKI {
         margin: 0px 0px 1rem;
-=======
-    @media screen and (min-width: 992px) {
-        .iqrUHq {
-            position: absolute;
-            top: 6vw;
-            left: 24.400000000000006vw;
-            width: 1351px px;
-            height: 590px;
-            transform: rotate( -31deg);
-            z-index: -1;
-            background: rgb(52, 51, 72);
-            border-radius: 400px;
-        }
-    }
-    
-    .jKPYKI {
-        margin: 0px 0px 2.6rem;
->>>>>>> de479c8a1a6bbcf09a3429ba57919884a449765e
         font-size: 1.2rem;
         color: rgb(52, 51, 72);
         text-align: center;
@@ -203,7 +184,6 @@
         font-style: normal;
     }
     
-<<<<<<< HEAD
     @media screen and (min-width: 992px) {
         .jKPYKI {
             margin: 0px 0px 1rem;
@@ -212,8 +192,6 @@
         }
     }
     
-=======
->>>>>>> de479c8a1a6bbcf09a3429ba57919884a449765e
     .hCDXlO {
         display: block;
         margin: 0px 0px 0.8rem;
@@ -231,7 +209,6 @@
     .fpdENk {
         width: 50%;
         margin: 0px auto;
-<<<<<<< HEAD
     }
     
     .cPEkng {
@@ -279,6 +256,4 @@
     .hdKmNU {
         width: 7rem;
         height: auto;
-=======
->>>>>>> de479c8a1a6bbcf09a3429ba57919884a449765e
     }
